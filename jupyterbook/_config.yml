@@ -1,0 +1,9 @@
+title: 『Rと事例で学ぶベイジアンネットワーク』をPythonで学ぶ
+author: Saviour
+exclude_patterns: [jupyterbook/_build, README.md]
+
+html:
+  favicon: jupyterbook/favicon.ico
+
+execute:
+  execute_notebooks: cache

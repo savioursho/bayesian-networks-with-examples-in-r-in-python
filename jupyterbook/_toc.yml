@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+chapters:
+- file: notebooks/chapter01/00-chapter01
+  sections:
+  - file: notebooks/chapter01/01-chapter01-section01
+  - file: notebooks/chapter01/02-chapter01-section02
+  - file: notebooks/chapter01/03-chapter01-section03
+  - file: notebooks/chapter01/04-chapter01-section04
